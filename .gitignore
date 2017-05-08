@@ -1,9 +1,0 @@
-*.bak
-*#
-.#*
-*~
-*.swp
-.*.kate-swp
-.*.swo
-.*.pyc
-.*.orig
